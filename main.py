@@ -5,8 +5,8 @@ import re
 from telethon import TelegramClient, events
 
 # Your credentials
-API_ID = 28451755  # Replace with your API ID
-API_HASH = "c888900d408dcd71e8bf31f5aa15ae0e"  # Replace with your API hash
+API_ID = 23697291  # Replace with your API ID
+API_HASH = "b3a10e33ef507e864ed7018df0495ca8"  # Replace with your API hash
 
 # Initialize the Telegram client
 client = TelegramClient("userbot", API_ID, API_HASH)
